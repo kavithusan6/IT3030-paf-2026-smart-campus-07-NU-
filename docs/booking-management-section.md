@@ -1,4 +1,4 @@
-# Mathuran - Booking Management
+Booking Management
 
 ## Contribution Scope
 
